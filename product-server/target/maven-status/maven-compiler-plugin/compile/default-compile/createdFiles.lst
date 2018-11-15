@@ -1,0 +1,8 @@
+com\gree\product\service\impl\ProductionServiceImpl.class
+com\gree\product\entity\po\Category.class
+com\gree\product\entity\dto\Result.class
+com\gree\product\controller\ProductionController.class
+com\gree\product\entity\po\Production.class
+com\gree\product\controller\ServerController.class
+com\gree\product\service\ProductionService.class
+com\gree\product\ProductApplication.class
